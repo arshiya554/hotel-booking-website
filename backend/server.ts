@@ -3,7 +3,7 @@ import { Application, Request, Response } from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
-import connectDB from './config/db';
+import connectDB from './middlewares/config/db';
 import { errorHandler, notFound } from './middlewares/errorMiddleware';
 
 // Routes

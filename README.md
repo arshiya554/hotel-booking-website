@@ -61,7 +61,7 @@ npm run server
 
 - Version: 1.0.0
 - License: MIT
-- Author: Said Mounaim
+- Author: Arshiya Parveen Shaik
 
 # hotel-booking-website
  151b6c994750c23eb85c593f52808c527dccb464
